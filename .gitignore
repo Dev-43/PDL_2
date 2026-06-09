@@ -1,0 +1,78 @@
+# Python environment
+.venv/
+env/
+venv/
+ENV/
+.Python
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# PyInstaller
+pyi_dist/
+pyi_work/
+*.spec
+
+# VS Code
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and runtime files
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# C/C++ build artifacts
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.out
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Bundle artifacts
+bundle/
+
+# Build artifacts from Windows bundling
+build_windows_bundle.bat
+install_windows.bat
+uninstall_windows.bat
