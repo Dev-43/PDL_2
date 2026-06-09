@@ -1,0 +1,37 @@
+timestamp,process_name,pid,risk_score,verdict,top_signal,user_response
+2026-04-07 09:53:25,System,4,0.719,HIGH RISK,Abnormal handle count 5809 — possible ransomware,false_positive
+2026-04-07 09:54:35,language_server_windows_x64.exe,16992,0.702,HIGH RISK,RAM growing 2524 KB/s — possible injection,false_positive
+2026-04-07 09:54:44,CrossDeviceService.exe,11276,0.718,HIGH RISK,Thread explosion +58 — possible injection,false_positive
+2026-04-07 10:01:22,Code.exe,8780,0.7,HIGH RISK,Anomaly score 1.00,false_positive
+2026-04-07 10:01:24,CompatTelRunner.exe,13600,0.7,HIGH RISK,RAM growing 3638 KB/s — possible injection,false_positive
+2026-04-07 10:13:56,[System Process],0,0.955,HIGH RISK,Sustained outbound 160284.5 MB/s — possible exfiltration,unresolved
+2026-04-07 10:14:00,[System Process],0,0.955,HIGH RISK,Sustained outbound 160284.5 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:06,[System Process],0,0.88,HIGH RISK,Sustained outbound 240426.7 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:07,Secure System,92,0.878,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:09,Registry,136,0.878,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:09,wininit.exe,652,0.878,HIGH RISK,Sustained outbound 240426.7 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:10,smss.exe,676,0.878,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:11,csrss.exe,988,0.878,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:12,csrss.exe,1004,0.878,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:16,explorer.exe,9888,0.834,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:17,dwm.exe,1600,0.82,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:25,python.exe,19348,0.785,HIGH RISK,Sustained outbound 679936.0 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:26,Taskmgr.exe,2556,0.763,HIGH RISK,Sustained outbound 680890.7 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:28,FMService64.exe,4536,0.763,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:29,LenovoVantageService.exe,4828,0.72,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:33,msedge.exe,3540,0.703,HIGH RISK,Sustained outbound 680834.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:34,msedge.exe,1260,0.774,HIGH RISK,Sustained outbound 480553.9 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:35,audiodg.exe,10644,0.727,HIGH RISK,Sustained outbound 453969.6 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:36,svchost.exe,1288,0.72,HIGH RISK,Sustained outbound 468092.5 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:37,ShellExperienceHost.exe,2672,0.703,HIGH RISK,Sustained outbound 468092.5 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:38,WmiPrvSE.exe,18352,0.752,HIGH RISK,Sustained outbound 680784.7 MB/s — possible exfiltration,false_positive
+2026-04-07 10:15:39,msedge.exe,6752,0.741,HIGH RISK,Sustained outbound 680663.4 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:21,svchost.exe,2980,0.73,HIGH RISK,Sustained outbound 680663.4 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:22,PhoneExperienceHost.exe,13388,0.73,HIGH RISK,Sustained outbound 291764.9 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:24,svchost.exe,4092,0.719,HIGH RISK,Sustained outbound 680663.4 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:25,ShellHost.exe,10300,0.716,HIGH RISK,Sustained outbound 680663.4 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:26,chrome.exe,13228,0.713,HIGH RISK,Sustained outbound 680954.4 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:27,mysqld.exe,5872,0.707,HIGH RISK,Sustained outbound 120138.5 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:27,chrome.exe,16144,0.774,HIGH RISK,Sustained outbound 486396.0 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:28,StartMenuExperienceHost.exe,11676,0.706,HIGH RISK,Sustained outbound 486396.0 MB/s — possible exfiltration,false_positive
+2026-04-07 10:20:29,ctfmon.exe,12304,0.705,HIGH RISK,Sustained outbound 486396.0 MB/s — possible exfiltration,false_positive

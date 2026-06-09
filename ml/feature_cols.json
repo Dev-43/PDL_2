@@ -1,0 +1,1 @@
+["sample_count", "ram_avg", "ram_max", "ram_var", "ram_growth", "cpu_avg", "cpu_max", "cpu_var", "net_sent_avg", "net_recv_avg", "connections_max", "thread_avg", "handle_avg", "is_elevated"]

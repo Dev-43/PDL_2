@@ -1,0 +1,29 @@
+[system process]
+audiodg.exe
+chrome.exe
+code.exe
+compattelrunner.exe
+crossdeviceservice.exe
+csrss.exe
+ctfmon.exe
+dwm.exe
+explorer.exe
+fmservice64.exe
+language_server_windows_x64.exe
+lenovovantageservice.exe
+logger.exe
+msedge.exe
+mysqld.exe
+phoneexperiencehost.exe
+python.exe
+registry
+secure system
+shellexperiencehost.exe
+shellhost.exe
+smss.exe
+startmenuexperiencehost.exe
+svchost.exe
+system
+taskmgr.exe
+wininit.exe
+wmiprvse.exe
